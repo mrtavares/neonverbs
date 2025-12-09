@@ -165,9 +165,9 @@ export const VERB_LIST: Verb[] = [
   { 
     infinitive: 'get', 
     pastSimple: 'got', 
-    pastParticiple: 'gotten', 
+    pastParticiple: 'got', 
     pastExample: 'He *got* a new bike for his birthday.', 
-    perfectExample: 'Things have *gotten* complicated.' 
+    perfectExample: 'Things have *got* complicated.' 
   },
   { 
     infinitive: 'give', 
