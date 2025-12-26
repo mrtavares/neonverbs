@@ -1,5 +1,6 @@
 {
-  "name": "neonverbs",
+  "name": "neon-irregular-verbs",
+  "homepage": "/irregularverbs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
